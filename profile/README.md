@@ -1,7 +1,7 @@
 
 # OGR-EIU Proof of concept
 
-## Categories of repositories
+## Repos by category
 
 Category | Description | Lookup topic
 ---|---|---
