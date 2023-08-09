@@ -11,4 +11,5 @@ Category | Description | Lookup topic
 [`data-pump-*`](https://github.com/orgs/OGR-EIU/repositories?q=data-pump) | Data pumps for external data sources | `data-pump`
 [`report-*`](https://github.com/orgs/OGR-EIU/repositories?q=report) | Internal production reports | `report`
 [`outsider-*`](https://github.com/orgs/OGR-EIU/repositories?q=outsider) | Jobs outside production platform | `outsider`
+[`docs-*`](https://github.com/orgs/OGR-EIU/repositories?q=docs) | Documentation repos | `docs`
 
