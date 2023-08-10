@@ -12,5 +12,7 @@ Category | Description | Lookup topic
 [`transformer-*`](https://github.com/orgs/OGR-EIU/repositories?q=transformer) | Data transformation and filters | `transformer`
 [`report-*`](https://github.com/orgs/OGR-EIU/repositories?q=report) | Internal production reports | `report`
 [`outsider-*`](https://github.com/orgs/OGR-EIU/repositories?q=outsider) | Jobs outside production platform | `outsider`
+[`toolbox`](https://github.com/orgs/OGR-EIU/repositories?q=toolbox) | Toolbox of utilities | `docs`
 [`docs-*`](https://github.com/orgs/OGR-EIU/repositories?q=docs) | Documentation repos | `docs`
+
 
